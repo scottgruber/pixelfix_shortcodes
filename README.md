@@ -5,6 +5,24 @@ Simple Perch Admin App to build support for Perch shortcodes
 
 1. Add more shortcode providers. 
 
+Shortcode providers include:
+
+- Giphy
+- Infogram
+- Issuu
+- Reddit
+- Slideshare
+- Smugmug
+- Vimeo
+- Wistia
+- Instagram
+- Twitter 
+- Codepen
+- Soundcloud
+- Speakerdeck
+- Huffduffer
+
+
 ## Installation
 
 1. Download app and copy to  /perch/addons/apps folder
